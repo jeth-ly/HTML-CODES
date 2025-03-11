@@ -1,0 +1,60 @@
+header {
+    background-color:rgba(160, 50, 149, 0.5); 
+    padding: 10px 0;
+    text-align: center;
+    }
+body {
+    background-image: url('pexels.jpeg');
+    background-size: cover;
+    background-attachment: fixed; 
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    padding: 0%;
+    margin: 0%;
+    }
+.item {
+    margin-left: 60px;
+    margin-right: 40px;
+    padding: 20px;
+    border: 2px solid rgb(238, 191, 235);
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    width: 200px;
+    }
+img {
+    width: 100%;
+    border-radius: 10px
+    }
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+    margin-left: 1cm;
+    font-size: 400%;
+    }
+h3{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+    margin-left: 1cm;
+    margin-bottom: 1cm;
+    font-size: 400%;;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-style: obliqu;
+    text-align: center;
+    }
+    
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color:rgba(160, 50, 149, 0.5); 
+   /* background: #35424a; */
+    color: #f7f7f7;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    }
